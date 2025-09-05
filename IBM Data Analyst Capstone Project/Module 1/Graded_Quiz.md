@@ -12,7 +12,8 @@ Question 1. Which Python module helps you to easily access an API?
 
 
 Correct
-Requests is a Python Library that allows you to access an API easily.
+
+**Requests** is a Python Library that allows you to access an API easily.
 
 
 Question 2. Which of the following URL formats would you use to retrieve the JSON representation of a job listing?
@@ -27,12 +28,13 @@ Question 2. Which of the following URL formats would you use to retrieve the JSO
 
 
 Correct
-The correct URL format to retrieve the JSON representation of a job listing is "/positions.json." This endpoint provides the job details in JSON format.
+
+The correct URL format to retrieve the JSON representation of a job listing is "**/positions.json**." This endpoint provides the job details in JSON format.
 
 
 Question 3. What step should you take after downloading the Jobs_API file to run it in IBM Watson Studio?
 
-Compile the file
+• Compile the file
 
 • Upload the file to IBM Watson Studio
 
@@ -42,7 +44,8 @@ Compile the file
 
 
 Correct
-After downloading the Jobs_API file, you should upload it to IBM Watson Studio to execute the code.
+
+After downloading the Jobs_API file, you should **upload it to IBM Watson Studio** to execute the code.
 
 
 Question 4. You are building a web scraping tool in Python and need to retrieve data from a web page. Which module will you use to download a web page in Python?
@@ -58,7 +61,8 @@ Question 4. You are building a web scraping tool in Python and need to retrieve 
 
 
 Correct
-The requests module downloads webpages in Python.
+
+The **requests** module downloads webpages in Python.
 
 
 Question 5. Which function in the csv module allows you to write rows into a CSV file?
@@ -74,7 +78,8 @@ Question 5. Which function in the csv module allows you to write rows into a CSV
 
 
 Correct
-writerow allows to write rows into a CSV file.
+
+**writerow** allows to write rows into a CSV file.
 
 
 Question 6. You are designing a web page that includes a complex table layout. Which tag will you use to identify a table row in an HTML table?
@@ -90,7 +95,8 @@ Question 6. You are designing a web page that includes a complex table layout. W
 
 
 Correct
-You can use the <tr> tag to identify a table row in an HTML table.
+
+You can use the **<tr>** tag to identify a table row in an HTML table.
 
 
 Question 7. Which library is required to load and manipulate the dataset in this lab?
@@ -106,7 +112,8 @@ Question 7. Which library is required to load and manipulate the dataset in this
 
 
 Correct
-Pandas help to load and manipulate data in this lab.
+
+**Pandas** help to load and manipulate data in this lab.
 
 
 Question 8. After loading the dataset, how many rows are present in the dataset?
@@ -122,7 +129,8 @@ Question 8. After loading the dataset, how many rows are present in the dataset?
 
 
 Correct
-The dataset contains 65,437 rows, as shown in the output of ‘df.shape[0].’
+
+The dataset contains **65,437** rows, as shown in the output of ‘df.shape[0].’
 
 
 Question 9. What is the approximate mean age of the survey participants in this dataset?
@@ -131,19 +139,17 @@ Question 9. What is the approximate mean age of the survey participants in this 
 
 • 29.6
 
-
-
 • 32.7
 
 • 25.4
 
 
 Correct
-The mean age is approximately 32.7 years, as calculated after mapping age ranges to numeric values.
+
+The mean age is approximately **32.7** years, as calculated after mapping age ranges to numeric values.
 
 
 Question 10. How many unique countries are represented in the ‘Country’ column of this dataset?
-
 
 • 175
 
@@ -155,4 +161,5 @@ Question 10. How many unique countries are represented in the ‘Country’ colu
 
 
 Correct
-185 unique countries are represented in the ‘Country’ column of this dataset.
+
+**185** unique countries are represented in the ‘Country’ column of this dataset.
